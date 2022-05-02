@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="Consumir metodo GET employees" skipped="0" tests="2" time="10.93" timestamp="2022-05-01 03:36:54"><testcase name="Juan es un usuario activo para consumir metodo GET para consulta de empleados"/><testcase name="Juan es un usuario activo para consumir metodo POST creación"/></testsuite>

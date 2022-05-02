@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="1" failures="0" name="Consumir metodo GET employees" skipped="0" tests="1" time="0.46" timestamp="2022-05-01 12:51:14"><testcase name="Carlos es un usuario activo para consumir metodo GET employees"><error message="net/serenitybdd/core/exceptions/IgnoreStepException" type="java.lang.NoClassDefFoundError">net/serenitybdd/core/exceptions/IgnoreStepException</error><system-err>net/serenitybdd/core/exceptions/IgnoreStepException&#13;
+luloBankPruebaTecnica.Herramientas.Ambiente.PrepararEscenario(Ambiente.java:15)&#13;
+luloBankPruebaTecnica.StepDefinitions.StepsDefinitions.thatCarlosUsesTheServiceFor(StepsDefinitions.java:18)&#13;
+✽.that Carlos uses the service for TEST(file:///C:/Users/Administrador/Desktop/pruebas%20tecnica/pruebaTecnica/src/test/resources/features/EmployeesGet.feature:6)&#13;
+</system-err></testcase></testsuite>
